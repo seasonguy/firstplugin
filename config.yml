@@ -1,0 +1,247 @@
+Wizard:
+  Helmet:
+    ID: 116
+    Amount: 1
+    Extraint: 0
+    Enchantmentid: 0
+    Enchantlevel: 3
+  Chestplate:
+    ID: 299
+    Amount: 1
+    Extraint: 0
+    Enchantmentid: 0
+    Enchantlevel: 3
+  Leggings:
+    ID: 300
+    Amount: 1
+    Extraint: 0
+    Enchantmentid: 0
+    Enchantlevel: 3
+  Boots:
+    ID: 301
+    Amount: 1
+    Extraint: 0
+    Enchantmentid: 0
+    Enchantlevel: 3
+  Mainweapon:
+    ID: 280
+    Amount: 1
+    Extraint: 0
+    Enchantmentid: 20
+    Enchantlevel: 2
+    Enchantmentid2: 16
+    Enchantlevel2: 2
+  Food:
+    ID: 364
+    Amount: 64
+    Extraint: 0
+  Heal:
+    ID: 322
+    Amount: 3
+    Extraint: 0
+  Extraitem1:
+    ID: 0
+    Amount: 0
+    Extraint: 0
+  Extraitem2:
+    ID: 0
+    Amount: 0
+    Extraint: 0
+  Extraitem3: 
+    ID: 0
+    Amount: 0
+    Extraint: 0
+Warrior:
+  Helmet:
+    ID: 310
+    Amount: 1
+    Enchantmentid: 0
+    Enchantlevel: 1
+  Chestplate:
+    ID: 307
+    Amount: 1
+    Enchantmentid: 0
+    Enchantlevel: 0
+  Leggings:
+    ID: 316
+    Amount: 1
+    Enchantmentid: 0
+    Enchantlevel: 3
+  Boots:
+    ID: 317
+    Amount: 1
+    Enchantmentid: 0
+    Enchantlevel: 3
+  Mainweapon:
+    ID: 267
+    Amount: 1
+    Extraint: 0
+    Enchantmentid: 16
+    Enchantlevel: 1
+  Food:
+    ID: 364
+    Amount: 64
+  Heal:
+    ID: 322
+    Amount: 1
+    Extraint: 0
+  Extraitem1:
+    ID: 0
+    Amount: 0
+    Extraint: 0
+Pro:
+  Helmet:
+    ID: 0
+    Amount: 0
+    Enchantmentid: 0
+    Enchantlevel: 0
+  Chestplate:
+    ID: 0
+    Amount: 0
+    Enchantmentid: 0
+    Enchantlevel: 0
+  Leggings:
+    ID: 0
+    Amount: 0
+    Enchantmentid: 0
+    Enchantlevel: 0
+  Boots:
+    ID: 301
+    Amount: 0
+    Enchantmentid: 0
+    Enchantlevel: 0
+  Mainweapon:
+    ID: 291
+    Amount: 1
+    Enchantmentid: 0
+    Enchantlevel: 0
+  Heal:
+    ID: 0
+    Amount: 0
+    Extraint: 0
+  Food:
+    ID: 320
+    Amount: 10
+    Extraint: 0
+Troll:
+  Helmet:
+    ID: 46
+    Amount: 1
+    Enchantmentid: 0
+    Enchantlevel: 3
+  Chestplate:
+    ID: 311
+    Amount: 1
+    Enchantmentid: 0
+    Enchantlevel: 3
+  Leggings:
+    ID: 0
+    Amount: 0
+    Extraint: 0
+  Boots:
+    ID: 0
+    Amount: 0
+    Extraint: 0
+  Mainweapon:
+    ID: 259
+    Amount: 1
+    Enchantmentid: 16
+    Enchantlevel: 3
+  Secondaryweapon:
+    ID: 0
+    Amount: 0
+    Enchantmentid: 0
+    Enchantlevel: 0
+  Special:
+    ID: 283
+    Amount: 1
+    Enchantmentid: 16
+    Enchantlevel: 4
+    Enchantmentid2: 20
+    Enchantlevel: 1
+    Subtractdura: 30
+  Heal:
+    ID: 322
+    Amount: 1
+    Extraint: 1
+  Food:
+    ID: 320
+    Amount: 64
+    Extraint: 0
+Hunter:
+  Helmet:
+    ID: 298
+    Amount: 1
+    Enchantmentid: 0
+    Enchantlevel: 3
+  Chestplate: 
+    ID: 299
+    Amount: 1
+    Enchantmentid: 0
+    Enchantlevel: 3
+  Leggings:
+    ID: 300
+    Amount: 1
+    Enchantmentid: 0
+    Enchantlevel: 3
+  Boots:
+    ID: 301
+    Amount: 1
+    Enchantmentid: 0
+    Enchantmentlevel: 3
+  Mainweapon:
+    ID: 267
+    Amount: 1
+    Extraint: 0
+    Enchantmentid: 16
+    Enchantlevel: 1
+  Secondaryweapon:
+    ID: 261
+    Amount: 1
+    Extraint: 0
+    Enchantmentid: 51
+    Enchantlevel: 1
+    Enchantmentid2: 48
+    Enchantlevel2: 1
+  Specialweapon:
+    ID: 276
+    Amount: 1
+    Extraint: 0
+    Enchantmentid: 16
+    Enchantlevel: 3
+    SubtractDurabil: 1560
+  Heal:
+    ID: 322
+    Amount: 1
+    Extraint: 0
+  Food:
+    ID: 320
+    Amount: 64
+    Extraint: 0
+  Extraitem1:
+    ID: 262
+    Amount: 180
+    Extraint: 0
+  Extraitem2:
+    ID: 0
+    Amount: 0
+    Extraint: 0
+  Extraitem3:
+    ID: 0
+    Amount: 0
+    Extraint: 0
+enabledrop:
+  Enable: false
+  Itemdropid: 322
+  Amount: 1
+  Extraint: 0
+  Cleardropitems: true
+joinmessage:
+  onenable: false
+  message: �aWelcome to this server! This server uses ThePvPGames 0.3.
+globalclassannouce:
+  onenable: true
+Lobby:
+X: 345
+Y: 4
+Z: 430

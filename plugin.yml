@@ -1,0 +1,90 @@
+name: ThePvPGames
+main: me.mineocraft.pvpgames.pvpmineo
+version: DEV0.3
+author: MineOCraft
+description: FIRST CRAP PLUGIN WHO U EVEN DOWNLOAD IT?
+commands:
+  pg:
+   description: Plugin Information for TheWither
+   usage: /<command>
+  SetWizard:
+   description: Be in  a wizard class!
+   usage: /<command>
+  SetWarrior:
+   description: Be in a warrior class!
+   usage: /<command>
+  SetWither:
+   description: Choose to, or choose others, to be in wither class!
+   usage: /<command>
+  SetPro:
+   description: Be in a Pro class! [FOR PROS ONLY!]
+   usage: /<command>
+  SetTroll:
+   description: Be a troll!
+   uasge: /<command>
+  SetRedacted:
+   description: Be in Redacted class!
+   usage: /<command>
+  SetArcher:
+   description: Be in Archer class!
+   usage: /<command>
+  SetAnthony:
+   description: Be in Anthony class!
+   usage: /<command>
+  SetHunter:
+   description: Be in Hunter class!
+   usage: /<command>
+  Alertpvp:
+   description: Alerts the whole a server a PvP match as started at your location.
+   usage: /<command>
+  PGLeave:
+   description: Leave the game/Clear class
+   usage: /<command>
+  PGUpgrade:
+   description: Upgrade your current armor!
+   usage: /<command>
+   
+permissions:
+  pg.setredacted:
+    description: class permision.
+    default: op
+  pg.alertpvp:
+    description: Alert everyone a PvP match has started at your location
+    default: op
+  pg.setwizard:
+    description: Puts you in a wizard's class!
+  pg.setwizard.setother:
+    description: The permission to set other players as wizard class!
+    default: op
+  pg.setwarrior:
+    description: Permission to use /setwarrior
+  pg.setwarrior.setother:
+    description: Permission to set other player to warrior class
+    default: op
+  pg.setpro:
+    description: Permission for /setpro
+  pg.setpro.setother:
+    description: Permission to set other users for Professional class.
+  pg.settroll:
+    description: Permission to set class as troll.
+  pg.settroll.setother:
+    description: Permission to set others for troll class.
+    default: op
+  pg.setarcher:
+    description: Permission to set class to archer.
+  pg.setwither:
+    description: Permission to set class to wither.
+  pg.setwither.setother:
+    description: Permission to others class to wither.
+    default: op
+  pg.setanthony:
+    description: Permission to set class to speedy.
+  pg.sethunter:
+    description: Permission to set class to hunter.
+  pg.sethunter.setother:
+    description: Permission to others class to hunter.
+    default: op
+  pg.pgleave:
+    description: Clears class.
+  pg.upgrade:
+    description: Permission to upgrade armor!
